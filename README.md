@@ -11,3 +11,4 @@
 9. Inputs
 10. SED Editor
 
+we are going to learn bash shell
